@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86a4d5b9-72f5-41f9-a5ab-a9d52581caa1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2yjqLTlvz8hIaQ5godNRHZTO8Zj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.example.com.executor": "Debug",
+    "JavaScript Debug.localhost:5500.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.app.js.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "git-widget-placeholder": "master",
+    "js.linters.configure.manually.selectedeslint": "true",
+    "last_opened_file_path": "C:/Users/samif/OneDrive/Desktop/subscription-tracker",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "C:\\Users\\samif\\OneDrive\\Desktop\\subscription-tracker\\node_modules\\eslint",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2025.1.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JavaScript Debug.example.com">
+    <configuration name="example.com" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://127.0.0.1:8080/v2/publish/https://example.com">
+      <method v="2" />
+    </configuration>
+    <configuration name="localhost:5500" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:5500">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.example.com" />
+        <item itemvalue="JavaScript Debug.localhost:5500" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-WS-251.26094.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86a4d5b9-72f5-41f9-a5ab-a9d52581caa1" name="Changes" comment="" />
+      <created>1750358274342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750358274342</updated>
+      <workItem from="1750358275885" duration="5006000" />
+      <workItem from="1750528360555" duration="3172000" />
+      <workItem from="1750710086235" duration="7165000" />
+      <workItem from="1750785063705" duration="11766000" />
+      <workItem from="1750866503494" duration="1837000" />
+      <workItem from="1750868508678" duration="2054000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
